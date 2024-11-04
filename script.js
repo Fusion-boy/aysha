@@ -1,4 +1,4 @@
-const targetDate = new Date("2024-11-05T00:00:00");
+const targetDate = new Date("2024-11-04T21:18:00");
 
 const countdownTimer = document.getElementById("countdownTimer");
 const giftHead = document.querySelector(".gift-head");
